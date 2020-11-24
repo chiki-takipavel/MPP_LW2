@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LR2_MPP": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\ЭРУД\" \"D:\\ЭРУД2\" 100"
+    }
+  }
+}
